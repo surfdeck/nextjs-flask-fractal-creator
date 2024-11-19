@@ -1,7 +1,7 @@
 Next.js + Flask / Python -  3D Fractal Model Generator
 
 ⚠️ Confidentiality Notice
-This code and accompanying resources are provided solely for the purpose of my job application. Sharing, distributing, or using this code outside the context of recruiting is strictly prohibited.
+This code and accompanying resources are provided solely for the purpose of my job application. Please do not share this outside of my job application. Thank you!
 
 This project combines Next.js and Flask to create an interactive 3D fractal model generator. Users can choose different fractal types, sizes, and details to customize models in real-time, all rendered with Three.js in a responsive frontend.
 
