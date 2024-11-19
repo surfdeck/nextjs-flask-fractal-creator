@@ -51,14 +51,7 @@ Project Structure
 └── .env                   # Environment variables (if any)
 API Endpoints
 
-The Flask backend provides key API endpoints:
-
-POST /api/generate-model: Generates a 3D model based on fractal type and parameters.
-GET /api/view-model: Fetches the most recent 3D model data for rendering.
-POST /api/update-settings: Updates model generation settings dynamically.
-Usage
-
- 
+  
 Customize Models: Use the form to select fractal types, adjust parameters, and apply effects (like lighting or bloom).
 
 View 3D Models: Generated models are displayed in real-time with Three.js, allowing for rotations, color adjustments, and more.
