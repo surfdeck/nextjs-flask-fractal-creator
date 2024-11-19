@@ -58,9 +58,11 @@ GET /api/view-model: Fetches the most recent 3D model data for rendering.
 POST /api/update-settings: Updates model generation settings dynamically.
 Usage
 
-Launch the Interface: Open http://localhost:3000 in your browser.
+ 
 Customize Models: Use the form to select fractal types, adjust parameters, and apply effects (like lighting or bloom).
+
 View 3D Models: Generated models are displayed in real-time with Three.js, allowing for rotations, color adjustments, and more.
+
 Notes
 Environment Variables: If required, add environment variables in a .env file.
 Production: For production deployment, ensure to update configurations in Next.js and Flask.
